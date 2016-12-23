@@ -4,7 +4,7 @@ A visualization tool which is used to quickly get the ranking and distribution o
 # Working demo link
 [Keyword Over Time](http://www.nemoleoliu.com)
 
-# Vedio demo link
+# Video demo link
 [Keyword Over Time Demo](https://www.youtube.com/watch?v=-0vNBap9--k&feature=youtu.be)
 
 
