@@ -1,6 +1,9 @@
 # KeywordOverTime
 A visualization tool which is used to quickly get the ranking and distribution of some keywords in a dataset.
 
+# Report
+[Final report](Report.pdf)
+
 # Working demo link
 [Keyword Over Time](http://www.nemoleoliu.com)
 
